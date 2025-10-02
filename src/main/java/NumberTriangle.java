@@ -59,6 +59,14 @@ public class NumberTriangle {
         return root;
     }
 
+    public NumberTriangle getLeft() {
+        return left;
+    }
+
+    public NumberTriangle getRight() {
+        return right;
+    }
+
 
     /**
      * [not for credit]
